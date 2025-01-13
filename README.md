@@ -1,4 +1,4 @@
-![Uno][logo]
+ ![Uno][logo]
 ---
 [![ShellCheck][ci_img]][ci_link] [![Apache License][li]][ll]
 
